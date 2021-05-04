@@ -21,5 +21,11 @@
       "project_job_git_key":"PSU",
       "git_hash": "1324b0507cf52bd9e887c92a99549092fe509e5f"
     }
+  ],
+  "datafiles": [
+    {
+      "project_name": "phenotype data",    
+      "clinical_data_s3_location": "avillach-73-nhanes-etl/hpds/nhanes_javabins.tar.gz"
+    }
   ]
 }
